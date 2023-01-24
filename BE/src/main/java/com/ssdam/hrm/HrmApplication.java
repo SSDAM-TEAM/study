@@ -1,13 +1,13 @@
-package com.ssdam.toy;
+package com.ssdam.hrm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ToyApplication {
+public class HrmApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ToyApplication.class, args);
+        SpringApplication.run(HrmApplication.class, args);
     }
 
 }
